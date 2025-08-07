@@ -3,6 +3,9 @@ package Control_Flow.QuestionsOf_if_else;
 import java.util.Scanner;
 
 public class Q17 {
+
+    // WAP to count number of even and odd digits in a given number using for loop
+    
     public static void approach2(int n){
         String temp=Integer.toString(n);
         int even=0;
@@ -25,3 +28,4 @@ public class Q17 {
         approach2(n);
     }
 }
+
