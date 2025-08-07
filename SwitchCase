@@ -1,0 +1,86 @@
+public class SwitchCase {
+    public static void main(String[] args) {
+        //Q2. Write a java program to find the number of a days in a month.
+
+                /*int Number_Of_DaysInMonth = 0;
+                String MonthOfName = "Unknown";
+
+                System.out.println("enter the month:");
+                int month = obj.nextInt();
+                System.out.println("enter the year:");
+                int year = obj.nextInt();
+
+                switch (month){
+                    case 1:
+                        MonthOfName = "january";
+                        Number_Of_DaysInMonth=31;
+                        System.out.println(MonthOfName + year + " has " + Number_Of_DaysInMonth + "days");
+                        break;
+                    case 2:
+                        MonthOfName ="february";
+                        if((year%4==0 && year%100!=0) || (year%400==0))
+                        {
+                            Number_Of_DaysInMonth=29;
+                            System.out.println(MonthOfName + year + " has " + Number_Of_DaysInMonth + "days");
+                        }
+                        else {
+                            Number_Of_DaysInMonth=28;
+                            System.out.println(MonthOfName + year + " has " + Number_Of_DaysInMonth + "days");
+                        }
+                        break;
+                    case 3:
+                        MonthOfName = "march";
+                        Number_Of_DaysInMonth=31;
+                        System.out.println(MonthOfName + year + " has " + Number_Of_DaysInMonth + "days");
+                        break;
+                    case 4:
+                        MonthOfName = "april";
+                        Number_Of_DaysInMonth=30;
+                        System.out.println(MonthOfName + year + " has " + Number_Of_DaysInMonth + "days");
+                        break;
+                    case 5:
+                        MonthOfName ="may";
+                        Number_Of_DaysInMonth=31;
+                        System.out.println(MonthOfName + year + " has " + Number_Of_DaysInMonth + "days");
+                        break;
+                    case 6:
+                        MonthOfName = "june";
+                        Number_Of_DaysInMonth=30;
+                        System.out.println(MonthOfName + year + " has " + Number_Of_DaysInMonth + "days");
+                        break;
+                    case 7:
+                        MonthOfName = "july";
+                        Number_Of_DaysInMonth=31;
+                        System.out.println(MonthOfName + year + " has " + Number_Of_DaysInMonth + "days");
+                        break;
+                    case 8:
+                        MonthOfName ="august";
+                        Number_Of_DaysInMonth=31;
+                        System.out.println(MonthOfName + year + " has " + Number_Of_DaysInMonth + "days");
+                        break;
+                    case 9:
+                        MonthOfName = "september";
+                        Number_Of_DaysInMonth=30;
+                        System.out.println(MonthOfName + year + " has " + Number_Of_DaysInMonth + "days");
+                        break;
+                    case 10:
+                        MonthOfName = "october";
+                        Number_Of_DaysInMonth=31;
+                        System.out.println(MonthOfName + year + " has " + Number_Of_DaysInMonth + "days");
+                        break;
+                    case 11:
+                        MonthOfName ="november";
+                        Number_Of_DaysInMonth=30;
+                        System.out.println(MonthOfName + year + " has " + Number_Of_DaysInMonth + "days");
+                        break;
+                    case 12:
+                        MonthOfName = "december";
+                        Number_Of_DaysInMonth=31;
+                        System.out.println(MonthOfName + year + " has " + Number_Of_DaysInMonth + "days");
+                        break;
+                    default:
+                        System.out.println("Invalid input");
+                }
+                 */
+    }
+}
